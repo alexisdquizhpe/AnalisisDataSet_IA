@@ -38,6 +38,7 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 >Las redes bayesianas son una representaci´on gr´afica de dependencias para razonamiento probabilstico, en la cual los nodos representan variables aleatorias
 y los arcos representan relaciones de dependencia directa entre las variables. Pueden definirse como un grafo orientado y sin ciclos en el que los nudos
 representan variables aleatorias y los arcos que los encadenan expresan las relaciones entre dichas variables. En la red o grafo, cada variable aleatoria recibe la asignación de su probabilidad de comportamiento, así como las probabilidades condicionales correspondientes.
+
 Las redes bayesianas permiten caracterizar diferentes variables y definir la relación entre varios eventos. La mayoría de los problemas y aplicaciones del mundo real son difíciles de resolver. Sin embargo, la naturaleza de esas aplicaciones es probabilística. Por eso necesitamos una solución como una red bayesiana. La red bayesiana también se puede utilizar para las siguientes tareas:
 * Tomar decisiones para factores inciertos
 * Predicción de series temporales
