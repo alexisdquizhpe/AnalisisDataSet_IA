@@ -77,3 +77,8 @@ En base a la gráfica, se puede observar que en los paises donde existe un menor
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pais.PNG)\
 En base a la gráfica, se puede observar que el país que más índices de suicidio ha tenido es Rusia.
 ## Comparación de Algoritmos
+|Algoritmo|Instancias correctamente clasificadas|
+|---:|:---:|
+|__Tipo_|_Trees__|
+|Random Forest|74.5389 %|
+|J48|68.6403 %|
