@@ -81,9 +81,9 @@ En base a la gráfica, se puede observar que el país que más índices de suici
 |---:|:---:|---:|:---:|
 |__Tipo_|_Trees__|__Sucess_|_Fail__|
 |Redes Bayecianas|65.3559 %|18182|9638|
-|Simplekmeans|68.6403 %|74.5389 %|74.5389 %|
+|Simplekmeans|68.6403 %|74.5389 |74.5389 |
 |J48|100%|27820 |0|
-|DecisionStump|321208 %|8936|18884|
-|RandomTree|725306%|20178|7642|
-|RandomProjection|725306%|20178|7642|
+|DecisionStump|32.1208 %|8936|18884|
+|RandomTree|72.5306%|20178|7642|
+|RandomProjection|72.5306%|20178|7642|
 |ZeroR|23.0338%|6408|21412|
