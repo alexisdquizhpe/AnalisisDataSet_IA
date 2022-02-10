@@ -1,4 +1,5 @@
 # Tasa de suicidios entre los años 1985 al 2016
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Suicidio.jpg)
 El presente proyecto consiste en el análisis del DATASET "Suicide Rates Overview 1985 to 2016", haciendo uso de distintos modelos de machine learning para el procesamiento de los datos a travésde la herramienta.
 
 ## Obtenido de:
