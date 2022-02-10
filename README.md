@@ -49,4 +49,12 @@ Las redes bayesianas permiten caracterizar diferentes variables y definir la rel
 * Conocimiento automatizado
 * Detección de anomalías
 Al diseñar un gráfico con la ayuda de las redes bayesianas, es necesario medir los nodos y los enlaces entre esos nodos. Estos son los dos componentes que completan una red bayesiana.
-  
+  ### Árbol de decisión
+Correctly Classified Instances       27820              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0     
+Root mean squared error                  0     
+Relative absolute error                  0      %
+Root relative squared error              0      %
+Total Number of Instances            27820   
