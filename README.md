@@ -49,3 +49,4 @@ Las redes bayesianas permiten caracterizar diferentes variables y definir la rel
 * Conocimiento automatizado
 * Detección de anomalías
 Al diseñar un gráfico con la ayuda de las redes bayesianas, es necesario medir los nodos y los enlaces entre esos nodos. Estos son los dos componentes que completan una red bayesiana.
+##Comparación de Adgoritmos
