@@ -51,29 +51,29 @@ Las redes bayesianas permiten caracterizar diferentes variables y definir la rel
 Al diseñar un gráfico con la ayuda de las redes bayesianas, es necesario medir los nodos y los enlaces entre esos nodos. Estos son los dos componentes que completan una red bayesiana.
 #### Resultados obtenidos
 ##### Red bayesiana del DATASET
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Redes_bayesianas_principal.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Redes_bayesianas_principal.PNG)\
 ##### Resumen
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Resumen.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Resumen.PNG)\
 En base a la imagen se puede observar que el 65.36% de los datos fue clasificado correctamente, es decir 18182 instancias de un total de 27820. 
 ##### Matriz de confusión
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Matriz_confusion.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Matriz_confusion.PNG)\
 Con los resultados obtenidos en la matriz de confusión se puede observar que los valores de la diagonal son los de mayor valor, por ende los resultados son validos.
 ##### Sexo
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Sexo.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Sexo.PNG)\
 En base a la imagen se puede observar que el sexo que más tiende a tomar la decisión de suicidarse es el masculino.
 ##### Generación
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Generacion.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Generacion.PNG)\
 En base a la grafica la generación que más tiende al suicidio son los llamados "Boomers" con un porcentaje de 87.5%
 ##### Año
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Anio.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Anio.PNG)\
 En base a la imagen, el rango de los años en los que más gente se suicidó fue de 1994 al 2006.
 ##### Edad
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Edad.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Edad.PNG)\
 El rango de edad que más tiende al suicidio es de 35 a 54 años.
 ##### GDP
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/GDP.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/GDP.PNG)\
 En base a la gráfica, se puede observar que en los paises donde existe un menor PIB es donde más suelen suicidarse las personas.
 ##### País
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pais.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pais.PNG)\
 En base a la gráfica, se puede observar que el país que más índices de suicidio ha tenido es Rusia.
-##Comparación de Algoritmos
+## Comparación de Algoritmos
