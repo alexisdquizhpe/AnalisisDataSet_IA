@@ -81,10 +81,13 @@ En base a la gráfica, se puede observar que el país que más índices de suici
 Tomando en cuenta que la cantidad de arreglos o filas que existian en el archivo .csv es de 28 mil aproximadamente, se procedio a dividirlos en dos archvios, con el fin de contar con dos datasets que contengan la misma estructura, pero que el de mayor cantidad de arreglos sirva para el entrenamiento del modelo, y el archivo restante para la puesta en práctica del modelo entrenado.
 #### Redes Bayecianas del DATASET (REDUCIDO)
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/redesBayecianasCountry.png)
+
 #### RESUMEN
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResumenInstancias.png)
+En este caso de entrenamiento del modelo, se lo hizo en base a la variable "Country" del dataset reducido ya que con esta variable se conseguía aumentar la cantidad de instancias correctamente clasificadas llega al casi 100% en comparación del 65% del primer modelo.
 #### MATRIZ DE CONFUSÓN 
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónA.png) ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónB.png)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónA.png) ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónB.png)\
+La principal diferencia que se puede ver, es el tamaño de la matriz, ya que existen una mayor cantidad de datos en la variable "Country", sin embargo, es mucho más fácil observar que los valores de la diagonal se encuentran más centrados.
 #### SEXO
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorSexo.png)
 #### GENERACIÓN
