@@ -79,6 +79,8 @@ En base a la gráfica, se puede observar que el país que más índices de suici
 
 ## Resultados de la división de los datos
 Tomando en cuenta que la cantidad de arreglos o filas que existian en el archivo .csv es de 28 mil aproximadamente, se procedio a dividirlos en dos archvios, con el fin de contar con dos datasets que contengan la misma estructura, pero que el de mayor cantidad de arreglos sirva para el entrenamiento del modelo, y el archivo restante para la puesta en práctica del modelo entrenado.
+#### RESUMEN
+
 
 
 
