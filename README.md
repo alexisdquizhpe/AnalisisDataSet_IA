@@ -84,7 +84,7 @@ Tomando en cuenta que la cantidad de arreglos o filas que existian en el archivo
 #### RESUMEN
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResumenInstancias.png)
 #### MATRIZ DE CONFUSÓN 
-
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónA.png) ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónB.png)
 #### SEXO
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorSexo.png)
 #### GENERACIÓN
