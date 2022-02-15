@@ -107,9 +107,8 @@ La principal diferencia que se puede ver, es el tamaño de la matriz, ya que exi
 #### NRO. SUICIDIOS
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorNroSuicidios.png)
 ## Comparación de Algoritmos
-|Algoritmo|Total Instancias correctamente clasificadas|Instancias correctamente clasificadas|Instancias Incorrectas|
+|Algoritmo|Porcentaje de instancias correctamente clasificadas|Instancias correctas|Instancias incorrectas|
 |---:|:---:|---:|:---:|
-|__Tipo_|_Trees__|__Sucess_|_Fail__|
 |Redes Bayecianas|65.3559 %|18182|9638|
 |Simplekmeans|68.6403 %|74.5389 |74.5389 |
 |J48|| ||
