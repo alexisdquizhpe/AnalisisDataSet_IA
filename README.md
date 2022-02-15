@@ -79,32 +79,32 @@ En base a la gráfica, se puede observar que el país que más índices de suici
 
 ## Resultados de la división de los datos
 Tomando en cuenta que la cantidad de arreglos o filas que existian en el archivo .csv es de 28 mil aproximadamente, se procedio a dividirlos en dos archvios, con el fin de contar con dos datasets que contengan la misma estructura, pero que el de mayor cantidad de arreglos sirva para el entrenamiento del modelo, y el archivo restante para la puesta en práctica del modelo entrenado.
-#### Redes Bayecianas del DATASET (REDUCIDO)
+### Redes Bayecianas del DATASET (REDUCIDO)
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/redesBayecianasCountry.png)
 
-#### RESUMEN
+### Resumen
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResumenInstancias.png)
 En este caso de entrenamiento del modelo, se lo hizo en base a la variable "Country" del dataset reducido ya que con esta variable se conseguía aumentar la cantidad de instancias correctamente clasificadas llega al casi 100% en comparación del 65% del primer modelo.
-#### MATRIZ DE CONFUSÓN 
+### Matriz de confusión
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónA.png) ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónB.png)\
 La principal diferencia que se puede ver, es el tamaño de la matriz, ya que existen una mayor cantidad de datos en la variable "Country", sin embargo, es mucho más fácil observar que los valores de la diagonal se encuentran más centrados.
-#### SEXO
+### Sexo
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorSexo.png)
-#### GENERACIÓN
+### Generación
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorGeneracion.png)
-#### AÑO 
+### Año
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorAño.png)
-#### EDAD
+### Edad
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorEdad.png)
-#### GDP
+### GDP
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/redesBayecianasGDP_per_capita.png)
-#### HDI
+### HDI
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/redesBayecianasHDI.png)
-#### POBLACIÓN
+### Población
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorPoblacion.png)
-#### POBLACIÓN / 100K
+### Población / 100K
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPor100K.png)
-#### NRO. SUICIDIOS
+### NRro. Suicidios
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorNroSuicidios.png)
 ## Comparación de Algoritmos
 |Algoritmo|Porcentaje de instancias correctamente clasificadas|Instancias correctas|Instancias incorrectas|
