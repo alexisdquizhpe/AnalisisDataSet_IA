@@ -36,7 +36,7 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
   * Silent 
 ## Modelos/Algoritmos a utilizar
 ### Redes bayesianas
->Las redes bayesianas son una representaci´on gr´afica de dependencias para razonamiento probabilstico, en la cual los nodos representan variables aleatorias
+>Las redes bayesianas son una representación gráfica de dependencias para razonamiento probabilstico, en la cual los nodos representan variables aleatorias
 y los arcos representan relaciones de dependencia directa entre las variables. Pueden definirse como un grafo orientado y sin ciclos en el que los nudos
 representan variables aleatorias y los arcos que los encadenan expresan las relaciones entre dichas variables. En la red o grafo, cada variable aleatoria recibe la asignación de su probabilidad de comportamiento, así como las probabilidades condicionales correspondientes.
 
@@ -117,17 +117,20 @@ En este caso de entrenamiento del modelo, se lo hizo en base a la variable "Coun
 |RandomProjection|72.5306%|20178|7642|
 |ZeroR|23.0338%|6408|21412|
 ## Predicción de los Datos
-Para esta seccion se dividió en dos partes el dataset en este caso se tomo en cuenta el año para poder dividir. Una ves realizado esto proceso se carga el modelo que se esta a usado en el entrenamiento en este caso es uso Redes bayesiana y se obtuvo los siguinetes resultados:
-* Predicicon por año
-En esta predicción se tomo el año para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que a partir de los años 2005 al 2006 es posible un aumento de suicidios en los diferentes paices 
+Para esta seccion se dividió en dos partes el dataset, 80% para el entrenamiento del modelo mediante Redes bayesianas, y 20% para la predicción. Una vez creado el modelo, se hizo uso del mismo para realizar el respectivo test de predicciones, mediante la cual se pudo obtener los siguientes resultados:
+* Predicción por año
+Se puede visualizar a continuación que a partir de los años 2005 al 2006 es posible que exista un aumento de suicidios en los distintos países.
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionYear.png)
 
 * Prediccion por Pais
-En esta predicción se tomo el país para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que en los paices de argentina, slovakia y Antigua and Barbua puede que aumenten los casos de suicidios
-
+Se puede visualizar a continuación que en los países de Argentina, Slovakia y Antigua and Barbuda pueden aumentar los casos de suicidios.
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionCounter.png) 
 
 * Prediccion por Generacion
-En esta predicción se tomo la generación para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que la generacion x sea mas propensa aumentar sus suicidios en los diferentes paices
-
+Se puede visualizar a continuación que la "Generación X" es la más propensa a suicidarse a lo largo de todos los países.
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionGeneracion.png) 
+
+## Bibliografía
+
+Data Science. 2021. Redes Bayesianas. [online] Available at: <https://datascience.eu/es/matematica-y-estadistica/redes-bayesianas/> [Accessed 18 February 2022].
+Yates, R. 2019. https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016. [online] Available at: <https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016> [Accessed 18 February 2022].
