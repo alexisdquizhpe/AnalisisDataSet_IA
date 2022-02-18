@@ -121,9 +121,13 @@ Para esta seccion se dividió en dos partes el dataset en este caso se tomo en c
 *Predicicon por año
 En esta predicción se tomo el año para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que a partir de los años 2005 al 2006 es posible un aumento de suicidios en los diferentes paices 
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionYear.png)
+
 *Prediccion por Pais
 En esta predicción se tomo el país para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que en los paices de argentina, slovakia y Antigua and Barbua puede que aumenten los casos de suicidios
+
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionCounter.png) 
+
 *Prediccion por Generacion
 En esta predicción se tomo la generación para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que la generacion x sea mas propensa aumentar sus suicidios en los diferentes paices
+
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/ PrediccionGeneracion.png) 
