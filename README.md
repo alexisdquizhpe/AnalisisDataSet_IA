@@ -118,16 +118,16 @@ En este caso de entrenamiento del modelo, se lo hizo en base a la variable "Coun
 |ZeroR|23.0338%|6408|21412|
 ## Predicción de los Datos
 Para esta seccion se dividió en dos partes el dataset en este caso se tomo en cuenta el año para poder dividir. Una ves realizado esto proceso se carga el modelo que se esta a usado en el entrenamiento en este caso es uso Redes bayesiana y se obtuvo los siguinetes resultados:
-*Predicicon por año
+* Predicicon por año
 En esta predicción se tomo el año para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que a partir de los años 2005 al 2006 es posible un aumento de suicidios en los diferentes paices 
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionYear.png)
 
-*Prediccion por Pais
+* Prediccion por Pais
 En esta predicción se tomo el país para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que en los paices de argentina, slovakia y Antigua and Barbua puede que aumenten los casos de suicidios
 
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionCounter.png) 
 
-*Prediccion por Generacion
+* Prediccion por Generacion
 En esta predicción se tomo la generación para la prediccion y como se puede visualizar en la imagen a continuación se puede observar que la generacion x sea mas propensa aumentar sus suicidios en los diferentes paices
 
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/ PrediccionGeneracion.png) 
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionGeneracion.png) 
