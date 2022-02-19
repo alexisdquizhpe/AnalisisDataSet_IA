@@ -36,6 +36,17 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
   * G.I. Generation
   * Silent 
 ## Modelos/Algoritmos a utilizar
+## Comparación de Algoritmos
+|Algoritmo|Porcentaje de instancias correctamente clasificadas|Instancias correctas|Instancias incorrectas|
+|---:|:---:|---:|:---:|
+|Redes Bayesianas|65.3559 %|18182|9638|
+|Redes Bayesianas (Modelo dividido y clasificado con otro parámetro|99.97 %|18182|9638|
+|Simplekmeans|68.6403 %|74.5389 |74.5389 |
+|J48|| ||
+|DecisionStump|32.1208 %|8936|18884|
+|RandomTree|72.5306%|20178|7642|
+|RandomProjection|72.5306%|20178|7642|
+|ZeroR|23.0338%|6408|21412|
 ### Redes bayesianas
 >Las redes bayesianas son una representación gráfica de dependencias para razonamiento probabilstico, en la cual los nodos representan variables aleatorias
 y los arcos representan relaciones de dependencia directa entre las variables. Pueden definirse como un grafo orientado y sin ciclos en el que los nudos
@@ -123,16 +134,7 @@ En este caso de entrenamiento del modelo, se lo hizo en base a la variable "Coun
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPor100K.png)
 ### NRro. Suicidios
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorNroSuicidios.png)
-## Comparación de Algoritmos
-|Algoritmo|Porcentaje de instancias correctamente clasificadas|Instancias correctas|Instancias incorrectas|
-|---:|:---:|---:|:---:|
-|Redes Bayecianas|65.3559 %|18182|9638|
-|Simplekmeans|68.6403 %|74.5389 |74.5389 |
-|J48|| ||
-|DecisionStump|32.1208 %|8936|18884|
-|RandomTree|72.5306%|20178|7642|
-|RandomProjection|72.5306%|20178|7642|
-|ZeroR|23.0338%|6408|21412|
+
 ## Predicción de los Datos
 Para esta seccion se dividió en dos partes el dataset, 80% para el entrenamiento del modelo mediante Redes bayesianas, y 20% para la predicción. Una vez creado el modelo, se hizo uso del mismo para realizar el respectivo test de predicciones, mediante la cual se pudo obtener los siguientes resultados:
 * Predicción por año
