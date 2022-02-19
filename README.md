@@ -40,7 +40,7 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 |Algoritmo|Porcentaje de instancias correctamente clasificadas|Instancias correctas|Instancias incorrectas|
 |---:|:---:|---:|:---:|
 |Redes Bayesianas|65.3559 %|18182|9638|
-|Redes Bayesianas (Modelo dividido y clasificado con otro parámetro|99.97 %|18182|9638|
+|Redes Bayesianas (Modelo dividido y clasificado con otro parámetro|99.97 %|27811|9|
 |Simplekmeans|68.6403 %|74.5389 |74.5389 |
 |J48|| ||
 |DecisionStump|32.1208 %|8936|18884|
