@@ -49,9 +49,18 @@ Las redes bayesianas permiten caracterizar diferentes variables y definir la rel
 * Conocimiento automatizado
 * Detección de anomalías
 Al diseñar un gráfico con la ayuda de las redes bayesianas, es necesario medir los nodos y los enlaces entre esos nodos. Estos son los dos componentes que completan una red bayesiana.
+#### Procedimiento
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/1.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/2.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/3.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/4.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/5.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/6.PNG)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/7.PNG)
+
 #### Resultados obtenidos
 ##### Red bayesiana del DATASET
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Redes_bayesianas_principal.PNG)\
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Redes_bayesianas_principal.PNG)
 ##### Resumen
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Resumen.PNG)\
 En base a la imagen se puede observar que el 65.36% de los datos fue clasificado correctamente, es decir 18182 instancias de un total de 27820. 
