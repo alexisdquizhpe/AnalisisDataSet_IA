@@ -1,10 +1,11 @@
 # Tasa de suicidios entre los años 1985 al 2016
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Suicidio.jpg)
-El presente proyecto consiste en el análisis del DATASET "Suicide Rates Overview 1985 to 2016", haciendo uso de distintos modelos de machine learning para el procesamiento de los datos a travésde la herramienta.
-
+El presente proyecto consiste en el análisis del DATASET "Suicide Rates Overview 1985 to 2016", haciendo uso del algoritmo de machine learning "Redes bayesianas" para el procesamiento de los datos a través de la herramienta Weka.
+## Descripción del Dataset
+Consiste en el número de suicidios que se han presentado a nivel mundial a través de los años 1985 hasta el 2016. El mismo consta de 12 atributos (los cuáles se describirán posteriormente), y un total de 27820 instancias.
 ## Obtenido de:
 https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
-## Especificación de los campos
+## Especificación de los atributos
 * País: Es el país el cuál está siendo objeto de estudio.
 * Año: Es el año del cual se tomaron los datos.
 * Sexo: Es el genero de las personas analizadas. Este puede ser:
@@ -50,12 +51,19 @@ Las redes bayesianas permiten caracterizar diferentes variables y definir la rel
 * Detección de anomalías
 Al diseñar un gráfico con la ayuda de las redes bayesianas, es necesario medir los nodos y los enlaces entre esos nodos. Estos son los dos componentes que completan una red bayesiana.
 #### Procedimiento
+1. Se carga el dataset (Archivo .csv) en el programa Weka haciendo click en "Open File".
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/1.PNG)
+2. Se selecciona el filtro supervisado llamado "Discretización" y se hace click en "Apply".
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/2.PNG)
+3. 1) Se dirige a la parte de "Classify", 2) se busca el algoritmo de clasificación "BayesNet", 3) luego se selecciona la opción "Use training set", 4) posteriormente se escoge el campo principal, el cual será la cabeza o base para visualizar el porcentaje, y 5) finalmente se hace click en "Start". 
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/3.PNG)
+4. El resultado que nos dará es el siguiente:
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/4.PNG)
+5. Luego, para poder visualizar el grafo resultante, se hace click derecho sobre el modelo obtenido y se selecciona la opción "Visualize graph".
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/5.PNG)
+6. Aquí se nos presentará el gráfico con el atributo que seleccionamos como raíz, y los demás atributos que se derivan de este.
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/6.PNG)
+7. Finalmente, si se quiere visualizar los porcentajes de las relaciones entre dos atributos de la tabla, se hace click en cuálquiera de los nodos, y se presentará una tabla como la que se muestra a continuación:
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/7.PNG)
 
 #### Resultados obtenidos
