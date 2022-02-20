@@ -66,7 +66,7 @@ Al diseñar un gráfico con la ayuda de las redes bayesianas, es necesario medir
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/1.PNG)
 2. Se selecciona el filtro supervisado llamado "Discretización" y se hace click en "Apply".
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/2.PNG)
-3. 1) Se dirige a la parte de "Classify", 2) se busca el algoritmo de clasificación "BayesNet", 3) luego se selecciona la opción "Use training set", 4) posteriormente se escoge el campo principal, el cual será la cabeza o base para visualizar el porcentaje, y 5) finalmente se hace click en "Start". 
+3. Se dirige a la parte de "Classify", 2) se busca el algoritmo de clasificación "BayesNet", 3) luego se selecciona la opción "Use training set", 4) posteriormente se escoge el campo principal, el cual será la cabeza o base para visualizar el porcentaje, y 5) finalmente se hace click en "Start". 
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/3.PNG)
 4. El resultado que nos dará es el siguiente:
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Redes_Bayesianas/Pasos/Redes_bayesianas_primer_modelo/4.PNG)
@@ -137,15 +137,15 @@ En este caso, el entrenamiento del modelo se lo hizo en base a la variable "Coun
 
 ## Predicción de los Datos
 Para esta seccion se dividió en dos partes el dataset, 80% para el entrenamiento del modelo mediante Redes bayesianas, y 20% para la predicción. Una vez creado el modelo, se hizo uso del mismo para realizar el respectivo test de predicciones, mediante la cual se pudo obtener los siguientes resultados:
-* Predicción por año
+* Predicción por año\
 Se puede visualizar a continuación que a partir de los años 2005 al 2006 es posible que exista un aumento de suicidios en los distintos países.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionYear.png)
 
-* Prediccion por Pais
+* Prediccion por Pais\
 Se puede visualizar a continuación que en los países de Argentina, Slovakia y Antigua and Barbuda pueden aumentar los casos de suicidios.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionCounter.png) 
 
-* Prediccion por Generacion
+* Prediccion por Generacion\
 Se puede visualizar a continuación que la "Generación X" es la más propensa a suicidarse a lo largo de todos los países.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionGeneracion.png) 
 
