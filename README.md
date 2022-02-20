@@ -111,7 +111,7 @@ Tomando en cuenta que la cantidad de arreglos o filas que existian en el archivo
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/redesBayecianasCountry.png)
 
 ### Resumen
-![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResumenInstancias.png)
+![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResumenInstancias.png)\
 En este caso de entrenamiento del modelo, se lo hizo en base a la variable "Country" del dataset reducido ya que con esta variable se conseguía aumentar la cantidad de instancias correctamente clasificadas llega al 99% en comparación al 65% del primer modelo.
 ### Matriz de confusión
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/MatrizConfunsiónA.png) 
