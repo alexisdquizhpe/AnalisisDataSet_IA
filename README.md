@@ -138,17 +138,17 @@ En este caso, el entrenamiento del modelo se lo hizo en base a la variable "Coun
 ### NRro. Suicidios
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorNroSuicidios.png)
 
-## Predicción de los Datos
+## Predicción de los datos
 Para esta seccion se dividió en dos partes el dataset, 80% para el entrenamiento del modelo mediante Redes bayesianas, y 20% para la predicción. Una vez creado el modelo, se hizo uso del mismo para realizar el respectivo test de predicciones, mediante la cual se pudo obtener los siguientes resultados:
-* Predicción por año\
+* Predicción por Año
 Se puede visualizar a continuación que a partir de los años 2005 al 2006 es posible que exista un aumento de suicidios en los distintos países.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionYear.png)
 
-* Prediccion por Pais\
+* Prediccion por País
 Se puede visualizar a continuación que en los países de Argentina, Slovakia y Antigua and Barbuda pueden aumentar los casos de suicidios.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionCounter.png) 
 
-* Prediccion por Generacion\
+* Prediccion por Generación
 Se puede visualizar a continuación que la "Generación X" es la más propensa a suicidarse a lo largo de todos los países.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionGeneracion.png) 
 ## Enlace del video con la explicación
