@@ -1,6 +1,9 @@
 # Tasa de suicidios entre los años 1985 al 2016
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Suicidio.jpg)
-El presente proyecto consiste en el análisis del DATASET "Suicide Rates Overview 1985 to 2016", haciendo uso del algoritmo de machine learning "Redes bayesianas" para el procesamiento de los datos a través de la herramienta Weka.
+El presente proyecto consiste en el análisis del DATASET "Suicide Rates Overview 1985 to 2016", haciendo uso del algoritmo de machine learning "Redes bayesianas" para el procesamiento de los datos a través de la herramienta Weka 3.8.6.
+## Requisitos previos
+* Tener instalado la herramienta de análisis "WEKA" (3.8.6 o +).
+* Haber descargado el dataset de un repositorio en formato .csv o .arff.
 ## Descripción del Dataset
 Consiste en el número de suicidios que se han presentado a nivel mundial a través de los años 1985 hasta el 2016. El mismo consta de 12 atributos (los cuáles se describirán posteriormente), y un total de 27820 instancias.
 ## Obtenido de:
@@ -148,6 +151,9 @@ Se puede visualizar a continuación que en los países de Argentina, Slovakia y 
 * Prediccion por Generacion\
 Se puede visualizar a continuación que la "Generación X" es la más propensa a suicidarse a lo largo de todos los países.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionGeneracion.png) 
+## Enlace del video con la explicación
+
+## Conclusiones
 
 ## Bibliografía
 
