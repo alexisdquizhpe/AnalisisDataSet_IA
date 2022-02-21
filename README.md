@@ -160,4 +160,4 @@ Además, en base al dataset analizado haciendo uso de las Redes Bayesianas, se c
 ## Bibliografía
 
 Data Science. 2021. Redes Bayesianas. [online] Available at: <https://datascience.eu/es/matematica-y-estadistica/redes-bayesianas/> [Accessed 18 February 2022].
-Yates, R. 2019. https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016. [online] Available at: <https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016> [Accessed 18 February 2022].
+Yates, R. 2019. Suicide rates overview 1985 to 2016. [online] Available at: <https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016> [Accessed 18 February 2022].
