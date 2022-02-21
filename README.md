@@ -45,7 +45,6 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 |Redes Bayesianas|65.3559 %|18182|9638|
 |Redes Bayesianas (Modelo dividido y clasificado con otro parámetro|99.97 %|27811|9|
 |Simplekmeans|68.6403 %|74.5389 |74.5389 |
-|J48|| ||
 |DecisionStump|32.1208 %|8936|18884|
 |RandomTree|72.5306%|20178|7642|
 |RandomProjection|72.5306%|20178|7642|
@@ -155,6 +154,9 @@ Se puede visualizar a continuación que la "Generación X" es la más propensa a
 https://www.youtube.com/watch?v=Bad8EY1QQSI
 ## Conclusiones
 Comparando los resultados de los algoritmos, se concluye que el algoritmo con mejores resultados de rendimiento con respecto a porcentajes de clasificación correcta de las instancias es el uso de redes bayesianas, mediante la división del dataset en 2 y la elección del criterio correcto, ya que esto permite obtener un 99.97% de precisión, lo cuál facilita que se determine según la variable (“generación, país, etc”),  cual es la población o generación más susceptible al suicidio, según el campo que se desea analizar.
+
+ Para  la minería de datos, es importante revisar los distintos algoritmos existente, ya que cada uno analiza los datos de manera diferente, lo esencial es buscar un algoritmo que pueda procesar de mañanera correcta la mayor cantidad de instancias, a ese algoritmo hay que aplicarle las distintas técnicas existentes que permitan mejorar  el procesamiento de instancias correctas, lo mínimo debería tener un 80%, de esta manera se pueden obtener resultados mas precisos.
+ 
 Además, en base al dataset analizado haciendo uso de las Redes Bayesianas, se conoce que la generación más susceptible a suicidarse es la generación X, además en los países como Argentina, Slovakia y Antigua and Barbuda los casos de suicidio pueden ir en aumento con el paso de los años.
 
 ## Bibliografía
