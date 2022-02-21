@@ -135,7 +135,7 @@ En este caso, el entrenamiento del modelo se lo hizo en base a la variable "Coun
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorPoblacion.png)
 ### Población / 100K
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPor100K.png)
-### NRro. Suicidios
+### Nro. Suicidios
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/resultadosDatosDividos/ResultadosPorNroSuicidios.png)
 
 ## Predicción de los datos
