@@ -154,6 +154,9 @@ Se puede visualizar a continuación que la "Generación X" es la más propensa a
 ## Enlace del video con la explicación
 https://www.youtube.com/watch?v=Bad8EY1QQSI
 ## Conclusiones
+Comparando los resultados de los algoritmos, se concluye que el algoritmo con mejores resultados de rendimiento con respecto a porcentajes de clasificación correcta de las instancias,  es el uso de redes bayesianas, en un dataset divido en 2, el cual tiene las instancias correctas procesadas a un 99.97%, el cual permitió determinar según una variable (“generación,  país, etc”),  cual es la población,  generación de ser mas susceptibles a un suicidio, según la variable que se desea analizar.
+
+Según el dataset analizado, utilizando las Redes Bayesianas, se conoce que la generación más susceptible a suicidarse es la generación X, además en los países como Argentina , Slovakia y Antigua and Barbuda los casos de suicidio pueden ir en aumento con el paso de los años.
 
 ## Bibliografía
 
