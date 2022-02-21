@@ -152,7 +152,7 @@ Se puede visualizar a continuación que en los países de Argentina, Slovakia y 
 Se puede visualizar a continuación que la "Generación X" es la más propensa a suicidarse a lo largo de todos los países.\
 ![Image text](https://github.com/alexisdquizhpe/AnalisisDataSet_IA/blob/main/Imagenes/Prediccion/PrediccionGeneracion.png) 
 ## Enlace del video con la explicación
-
+https://www.youtube.com/watch?v=Bad8EY1QQSI
 ## Conclusiones
 
 ## Bibliografía
