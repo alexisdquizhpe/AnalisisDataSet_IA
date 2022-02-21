@@ -28,7 +28,7 @@ https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 * Índice de desarrrollo humano (HDI) por Año: Es un indicador que que mide el nivel de desarrollo de cada país atendiendo a variables como la esperanza de vida, la educación o el ingreso per cápita. El cual ha sido estimado por cada año.
   * Desarrollo humano muy alto, aquellos con niveles superiores al 0,80.
   * Desarrollo humano alto, cuyos niveles rondan entre 0,70 y 0,80.
-  * Desarrollo humano medio, cuyos niveles rondan entre 0,50 y 0,70.
+  * Desarrollo humano medio, cuyos niveles rondan entre 0,55 y 0,70.
   * Desarrollo humano bajo, con una valoración inferior a 0,55.
 * Producto interno bruto (GDP) por Año:  Es la suma total del precio en el mercado de todos los bienes y servicios finales producidos por un país durante un período de tiempo fijo, en este caso, un año.
 * Generación: Posee la generación a la que pertenece dicho rango de edad. Estos pueden ser:
@@ -154,9 +154,8 @@ Se puede visualizar a continuación que la "Generación X" es la más propensa a
 ## Enlace del video con la explicación
 https://www.youtube.com/watch?v=Bad8EY1QQSI
 ## Conclusiones
-Comparando los resultados de los algoritmos, se concluye que el algoritmo con mejores resultados de rendimiento con respecto a porcentajes de clasificación correcta de las instancias,  es el uso de redes bayesianas, en un dataset divido en 2, el cual tiene las instancias correctas procesadas a un 99.97%, el cual permitió determinar según una variable (“generación,  país, etc”),  cual es la población,  generación de ser mas susceptibles a un suicidio, según la variable que se desea analizar.
-
-Según el dataset analizado, utilizando las Redes Bayesianas, se conoce que la generación más susceptible a suicidarse es la generación X, además en los países como Argentina , Slovakia y Antigua and Barbuda los casos de suicidio pueden ir en aumento con el paso de los años.
+Comparando los resultados de los algoritmos, se concluye que el algoritmo con mejores resultados de rendimiento con respecto a porcentajes de clasificación correcta de las instancias es el uso de redes bayesianas, mediante la división del dataset en 2 y la elección del criterio correcto, ya que esto permite obtener un 99.97% de precisión, lo cuál facilita que se determine según la variable (“generación, país, etc”),  cual es la población o generación más susceptible al suicidio, según el campo que se desea analizar.
+Además, en base al dataset analizado haciendo uso de las Redes Bayesianas, se conoce que la generación más susceptible a suicidarse es la generación X, además en los países como Argentina, Slovakia y Antigua and Barbuda los casos de suicidio pueden ir en aumento con el paso de los años.
 
 ## Bibliografía
 
